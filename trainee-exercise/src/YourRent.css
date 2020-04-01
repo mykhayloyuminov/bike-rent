@@ -1,0 +1,23 @@
+.your_rent__button {
+    color: white;
+    background: red;
+    padding: 10px 20px;
+    float: right;
+    border-radius: 10px;
+}
+
+.item_margins{
+    margin: 50px 0;
+}
+
+.rent_field {
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 2px;;
+    padding: 10px 20px;
+}
+
+.item_text{
+    display: inline;
+    line-height: 40px;
+}
